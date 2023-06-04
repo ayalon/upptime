@@ -36,6 +36,9 @@ status-website:
 
   robotsText: "User-agent: * \n Disallow: /"
 
+i18n:
+  footer: "Made with ❤️ by [ayalon GmbH](https://ayalon.ch)"
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
