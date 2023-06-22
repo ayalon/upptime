@@ -4,18 +4,20 @@
     "url": "https://famillesuisse.ch",
     "icon": "https://icons.duckduckgo.com/ip3/famillesuisse.ch.ico",
     "slug": "famillesuisse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 593,
-    "timeWeek": 719,
-    "timeMonth": 705,
-    "timeYear": 705,
-    "dailyMinutesDown": {}
+    "time": 689,
+    "timeDay": 452,
+    "timeWeek": 668,
+    "timeMonth": 689,
+    "timeYear": 689,
+    "dailyMinutesDown": {
+      "2023-06-22": 0
+    }
   },
   {
     "name": "lessmess.io",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/creced.ch.ico",
     "slug": "creced-ch",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.57%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1711,
     "timeDay": 1323,
     "timeWeek": 1660,
     "timeMonth": 1711,
     "timeYear": 1711,
     "dailyMinutesDown": {
-      "2023-06-22": 14
+      "2023-06-22": 110
     }
   },
   {
