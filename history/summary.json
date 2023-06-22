@@ -40,18 +40,20 @@
     "url": "https://creced.ch",
     "icon": "https://icons.duckduckgo.com/ip3/creced.ch.ico",
     "slug": "creced-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1752,
-    "timeDay": 1329,
-    "timeWeek": 1758,
-    "timeMonth": 1752,
-    "timeYear": 1752,
-    "dailyMinutesDown": {}
+    "time": 1718,
+    "timeDay": 1196,
+    "timeWeek": 1671,
+    "timeMonth": 1718,
+    "timeYear": 1718,
+    "dailyMinutesDown": {
+      "2023-06-22": 0
+    }
   },
   {
     "name": "ayalon.ch",
