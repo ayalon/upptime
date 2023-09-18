@@ -15,8 +15,6 @@ sites:
     url: https://xtramarketing.ch
   - name: jira.ayalon.ch
     url: https://jira.ayalon.ch
-  - name: testdown.ayalon.ch
-    url: https://testdown.ayalon.ch
 
 assignees:
   - ayalon
