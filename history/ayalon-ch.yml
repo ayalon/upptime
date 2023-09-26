@@ -1,7 +1,7 @@
 url: https://ayalon.ch
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2023-09-25T23:14:30.080Z
+status: down
+code: 502
+responseTime: 517
+lastUpdated: 2023-09-26T19:50:34.816Z
 startTime: 2023-06-04T18:40:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
