@@ -1,7 +1,7 @@
 url: https://shop.famillesuisse.ch
-status: up
-code: 200
-responseTime: 1052
-lastUpdated: 2024-08-25T23:17:08.775Z
+status: down
+code: 500
+responseTime: 1300
+lastUpdated: 2024-08-26T18:20:55.650Z
 startTime: 2023-09-18T11:05:41.370Z
 generator: Upptime <https://github.com/upptime/upptime>
