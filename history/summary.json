@@ -111,19 +111,19 @@
     "url": "https://xtramarketing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/xtramarketing.ch.ico",
     "slug": "xtramarketing-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "91.47%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 649,
-    "timeWeek": 787,
-    "timeMonth": 921,
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1033,
+    "timeDay": 709,
+    "timeWeek": 792,
+    "timeMonth": 919,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2024-12-02": 0
+      "2024-12-02": 32
     }
   },
   {
