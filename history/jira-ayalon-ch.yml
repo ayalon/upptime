@@ -1,7 +1,7 @@
 url: https://jira.ayalon.ch
-status: down
-code: 503
-responseTime: 689
-lastUpdated: 2025-02-19T10:18:31.115Z
+status: up
+code: 200
+responseTime: 809
+lastUpdated: 2025-02-19T10:40:55.546Z
 startTime: 2023-06-04T18:40:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
