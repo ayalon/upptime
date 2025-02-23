@@ -102,19 +102,19 @@
     "url": "https://ayalon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ayalon.ch.ico",
     "slug": "ayalon-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "88.13%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 997,
-    "timeDay": 3757,
-    "timeWeek": 1291,
-    "timeMonth": 2040,
-    "timeYear": 1138,
+    "timeDay": 2242,
+    "timeWeek": 1220,
+    "timeMonth": 1999,
+    "timeYear": 1137,
     "dailyMinutesDown": {
-      "2025-02-23": 0
+      "2025-02-23": 14
     }
   },
   {
