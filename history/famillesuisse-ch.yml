@@ -1,7 +1,7 @@
 url: https://famillesuisse.ch
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2025-11-17T23:20:25.376Z
+status: down
+code: 500
+responseTime: 298
+lastUpdated: 2025-11-18T12:41:54.718Z
 startTime: 2023-06-04T18:40:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
