@@ -72,22 +72,22 @@
     "url": "https://creced.ch",
     "icon": "https://icons.duckduckgo.com/ip3/creced.ch.ico",
     "slug": "creced-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "93.44%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.58%",
     "time": 1558,
-    "timeDay": 1637,
-    "timeWeek": 1892,
-    "timeMonth": 1998,
+    "timeDay": 1613,
+    "timeWeek": 1855,
+    "timeMonth": 1985,
     "timeYear": 1550,
     "dailyMinutesDown": {
       "2026-02-26": 598,
       "2026-06-07": 1012,
       "2026-06-06": 591,
-      "2026-08-15": 2
+      "2026-08-15": 31
     }
   },
   {
