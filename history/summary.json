@@ -139,22 +139,22 @@
     "url": "https://jira.ayalon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayalon.ch.ico",
     "slug": "jira-ayalon-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.81%",
     "time": 870,
-    "timeDay": 14245,
-    "timeWeek": 5318,
-    "timeMonth": 2158,
+    "timeDay": 10926,
+    "timeWeek": 4883,
+    "timeMonth": 2122,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2025-12-04": 39,
       "2026-02-03": 258,
       "2026-02-26": 597,
-      "2026-08-15": 78
+      "2026-08-15": 88
     }
   }
 ]
