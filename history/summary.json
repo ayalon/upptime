@@ -73,11 +73,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/creced.ch.ico",
     "slug": "creced-ch",
     "status": "down",
-    "uptime": "93.44%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.57%",
+    "uptime": "93.43%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.56%",
     "time": 1557,
     "timeDay": 1613,
     "timeWeek": 1855,
@@ -87,7 +87,7 @@
       "2026-02-26": 598,
       "2026-06-07": 1012,
       "2026-06-06": 591,
-      "2026-08-15": 58
+      "2026-08-15": 89
     }
   },
   {
@@ -139,22 +139,22 @@
     "url": "https://jira.ayalon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayalon.ch.ico",
     "slug": "jira-ayalon-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 841,
-    "timeDay": 13929,
-    "timeWeek": 4123,
-    "timeMonth": 1748,
-    "timeYear": 890,
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.82%",
+    "time": 869,
+    "timeDay": 14245,
+    "timeWeek": 5318,
+    "timeMonth": 2158,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-12-04": 39,
       "2026-02-03": 258,
       "2026-02-26": 597,
-      "2026-08-15": 0
+      "2026-08-15": 31
     }
   }
 ]
