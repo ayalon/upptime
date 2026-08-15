@@ -139,9 +139,9 @@
     "url": "https://jira.ayalon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/jira.ayalon.ch.ico",
     "slug": "jira-ayalon-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -153,7 +153,8 @@
     "dailyMinutesDown": {
       "2025-12-04": 39,
       "2026-02-03": 258,
-      "2026-02-26": 597
+      "2026-02-26": 597,
+      "2026-08-15": 0
     }
   }
 ]
