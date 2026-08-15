@@ -72,22 +72,22 @@
     "url": "https://creced.ch",
     "icon": "https://icons.duckduckgo.com/ip3/creced.ch.ico",
     "slug": "creced-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "93.43%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.55%",
-    "time": 1557,
-    "timeDay": 1613,
-    "timeWeek": 1855,
-    "timeMonth": 1985,
-    "timeYear": 1550,
+    "uptimeDay": "84.50%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.54%",
+    "time": 1663,
+    "timeDay": 19227,
+    "timeWeek": 7699,
+    "timeMonth": 3625,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2026-02-26": 598,
       "2026-06-07": 1012,
       "2026-06-06": 591,
-      "2026-08-15": 178
+      "2026-08-15": 223
     }
   },
   {
@@ -141,10 +141,10 @@
     "slug": "jira-ayalon-ch",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.81%",
     "time": 870,
     "timeDay": 14245,
     "timeWeek": 5318,
@@ -154,7 +154,7 @@
       "2025-12-04": 39,
       "2026-02-03": 258,
       "2026-02-26": 597,
-      "2026-08-15": 31
+      "2026-08-15": 78
     }
   }
 ]
